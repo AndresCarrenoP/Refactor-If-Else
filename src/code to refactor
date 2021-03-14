@@ -1,0 +1,21 @@
+int edadPapa = 54;
+        int edadRoberto = 18;
+        int edadAmigo = 18;
+
+        System.out.println("La edad del Papá es de " + edadPapa + " años, la de Roberto es de " + edadRoberto + " años.");
+        System.out.println("¿La edad del Papá es MENOR QUE la edad de Roberto? \nR:" + (edadPapa < edadRoberto));
+        System.out.println("¿La edad del Papá es MENOR O IGUAL QUE la edad de Roberto? \nR:" + (edadPapa <= edadRoberto));
+        System.out.println("¿La edad del Papá es MAYOR QUE la edad de Roberto? \nR:" + (edadPapa > edadRoberto));
+        System.out.println("¿La edad del Papá es MAYOR O IGUAL QUE la edad de Roberto? \nR:" + (edadPapa >= edadRoberto));
+        System.out.println("¿La edad del Papá es IGUAL QUE la edad de Roberto? \nR:" + (edadPapa == edadRoberto));
+        System.out.println("¿La edad del Papá es DIFERENTE QUE la edad de Roberto? \nR:" + (edadPapa != edadRoberto));
+        System.out.println();
+
+        System.out.println("La edad del Amigo es de " + edadAmigo + " años, la de Roberto es de " + edadRoberto + " años.");
+        System.out.println("¿La edad del Amigo es MENOR QUE la edad de Roberto? \nR:" + (edadAmigo < edadRoberto));
+        System.out.println("¿La edad del Amigo es MENOR O IGUAL QUE la edad de Roberto? \nR:" + (edadAmigo <= edadRoberto));
+        System.out.println("¿La edad del Amigo es MAYOR QUE la edad de Roberto? \nR:" + (edadAmigo > edadRoberto));
+        System.out.println("¿La edad del Amigo es MAYOR O IGUAL QUE la edad de Roberto? \nR:" + (edadAmigo >= edadRoberto));
+        System.out.println("¿La edad del Amigo es IGUAL QUE la edad de Roberto? \nR:" + (edadAmigo == edadRoberto));
+        System.out.println("¿La edad del Amigo es DIFERENTE QUE la edad de Roberto? \nR:" + (edadAmigo != edadRoberto));
+        System.out.println();
